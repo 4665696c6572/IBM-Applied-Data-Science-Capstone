@@ -83,7 +83,7 @@ def get_pie_chart(entered_site):
 			filtered_df, 
 			values = 'class', 
 			names = 'Launch Site', 
-			title = 'Total Success Launches By Site'
+			title = 'names = 'Percent of successful launches per site', '
 		)
 		return fig
 	# return the outcomes piechart for a selected site
